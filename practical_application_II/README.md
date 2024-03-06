@@ -25,17 +25,17 @@ Evaluation
 
 This plot shows the importance of each feature in the data set , The 3 important features that drive the car price are
 
-#Year of manufacture\n
-#The number of cylinders in the car
-#Transmission
+1. Year of manufacture\n
+2. The number of cylinders in the car
+3. Transmission
 
 The other features that are about same importance are
 
-#Paint color
-#Car type (van, suv, sedan, cuv etc)
-#Manufacturer
-#Condition
+1. Paint color
+2. Car type (van, suv, sedan, cuv etc)
+3. Manufacturer
+4. Condition
 It is suprising to see that the fuel type and odometer mileage are not a significant factors in determing the price of the car.
 
-# The notebook related to the work performed is at https://github.com/Kriskan17/Berkeley_AIML/blob/main/practical_application_II/prompt_II.ipynb
+** The notebook related to the work performed is at https://github.com/Kriskan17/Berkeley_AIML/blob/main/practical_application_II/prompt_II.ipynb
 
