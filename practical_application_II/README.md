@@ -25,7 +25,7 @@ Evaluation
 
 This plot shows the importance of each feature in the data set , The 3 important features that drive the car price are
 
-#Year of manufacture
+#Year of manufacture\n
 #The number of cylinders in the car
 #Transmission
 
