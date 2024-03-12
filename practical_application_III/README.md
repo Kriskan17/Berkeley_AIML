@@ -3,14 +3,23 @@ What drives the price of a car?
 
 
 # OVERVIEW
+In this project, the goal is to predict deposit subscription by clients based on the previous marketing campaigns
+# Dataset Information
+Additional Information
 
-In this application, we explored a dataset from kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure speed of processing. Your goal is to understand what factors make a car more or less expensive. As a result of your analysis, you should provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car.
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
-# CRISP-DM Framework
-To frame the task, throughout our practical applications we will refer back to a standard process in industry for data projects called CRISP-DM. This process provides a framework for working through a data problem. Your first step in this application will be to read through a brief overview of CRISP-DM here. After reading the overview, answer the questions below.
+There are four datasets: 
+1) bank-additional-full.csv with all examples (41188) and 20 inputs, ordered by date (from May 2008 to November 2010), very close to the data analyzed in [Moro et al., 2014]
+2) bank-additional.csv with 10% of the examples (4119), randomly selected from 1), and 20 inputs.
+3) bank-full.csv with all examples and 17 inputs, ordered by date (older version of this dataset with less inputs). 
+4) bank.csv with 10% of the examples and 17 inputs, randomly selected from 3 (older version of this dataset with less inputs). 
+The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM). 
+
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
 # Business Understanding
-From a business perspective, we are tasked with identifying key drivers for used car prices. In the CRISP-DM overview, we are asked to convert this business framing to a data problem definition. Using a few sentences, reframe the task as a data task with the appropriate technical vocabulary.
+We are given the data of direct marketing campaigns (phone calls) of a Portuguese banking institution. The goal is to predict if the client will subscribe a term deposit (target variable y). This case study is inspired by this research paper where the researchers have used a very similar dataset as the one we will be using throughout this case study for determining the success of Bank Telemarketing.
 
 The following steps were taken to analyse the used car data
 Data Understanding
@@ -21,8 +30,6 @@ Evaluation
 
 # Findings: The following are the important findings of this review : 
 
-
-# Recommendations :
 * Appropriate Timing: The timing of the marketing campaign during the year is important. The campaigns ran duing the months of March, August and May are more likely to enrol customers to the program.
 
 * Economy : The external financial factors like High employment rate (emp.var.rate), Better CPI (Consumer price index ), euribor (3 month interest rate) are also important factors to consider.
