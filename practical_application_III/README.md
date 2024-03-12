@@ -22,10 +22,10 @@ Evaluation
 # Findings: The following are the important findings of this review : 
 
 
-#Recommendations :
-*Appropriate Timing: The timing of the marketing campaign during the year is important. The campaigns ran duing the months of March, August and May are more likely to enrol customers to the program.
+# Recommendations :
+* Appropriate Timing: The timing of the marketing campaign during the year is important. The campaigns ran duing the months of March, August and May are more likely to enrol customers to the program.
 
-*Economy : The external financial factors like High employment rate (emp.var.rate), Better CPI (Consumer price index ), euribor (3 month interest rate) are also important factors to consider.
+* Economy : The external financial factors like High employment rate (emp.var.rate), Better CPI (Consumer price index ), euribor (3 month interest rate) are also important factors to consider.
 
-*Duration and Previous Campaign : Duration of the call and Previous outcome may not be good indicators, as the duration of the call may just mean the people who enrolled actually spend more time to complete the enrollment process.
+* Duration and Previous Campaign : Duration of the call and Previous outcome may not be good indicators, as the duration of the call may just mean the people who enrolled actually spend more time to complete the enrollment process.
 
