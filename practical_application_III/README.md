@@ -36,3 +36,6 @@ Evaluation
 
 * Duration and Previous Campaign : Duration of the call and Previous outcome may not be good indicators, as the duration of the call may just mean the people who enrolled actually spend more time to complete the enrollment process.
 
+* The link to the colab notebook : https://github.com/Kriskan17/Berkeley_AIML/blob/main/practical_application_III/prompt_III.ipynb
+  
+
