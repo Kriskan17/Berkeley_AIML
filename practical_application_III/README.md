@@ -22,20 +22,10 @@ Evaluation
 # Findings: The following are the important findings of this review : 
 
 
+#Recommendations :
+*Appropriate Timing: The timing of the marketing campaign during the year is important. The campaigns ran duing the months of March, August and May are more likely to enrol customers to the program.
 
-This plot shows the importance of each feature in the data set , The 3 important features that drive the car price are
+*Economy : The external financial factors like High employment rate (emp.var.rate), Better CPI (Consumer price index ), euribor (3 month interest rate) are also important factors to consider.
 
-1. Year of manufacture\n
-2. The number of cylinders in the car
-3. Transmission
-
-The other features that are about same importance are
-
-1. Paint color
-2. Car type (van, suv, sedan, cuv etc)
-3. Manufacturer
-4. Condition
-It is suprising to see that the fuel type and odometer mileage are not a significant factors in determing the price of the car.
-
-** The notebook related to the work performed is at https://github.com/Kriskan17/Berkeley_AIML/blob/main/practical_application_II/prompt_II.ipynb
+*Duration and Previous Campaign : Duration of the call and Previous outcome may not be good indicators, as the duration of the call may just mean the people who enrolled actually spend more time to complete the enrollment process.
 
