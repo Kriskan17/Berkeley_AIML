@@ -53,7 +53,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9398810/
 
 #### Outline of project
 
-https://github.com/Kriskan17/Berkeley_AIML/blob/main/capstone/capstone1.ipynb)https://github.com/Kriskan17/Berkeley_AIML/blob/main/capstone/capstone1.ipynb
+Here is the link to the python notebook (colab)
+
+https://github.com/Kriskan17/Berkeley_AIML/blob/main/capstone/capstone1.ipynb
 
 
 ##### Contact and Further Information
