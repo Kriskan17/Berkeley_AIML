@@ -53,9 +53,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9398810/
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+https://github.com/Kriskan17/Berkeley_AIML/blob/main/capstone/capstone1.ipynb)https://github.com/Kriskan17/Berkeley_AIML/blob/main/capstone/capstone1.ipynb
 
 
 ##### Contact and Further Information
