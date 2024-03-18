@@ -16,7 +16,7 @@ This study determines whether a tissue sample is malignant or benign from the fe
 #### Research Question
 
 We are analysing the dataset provided to review the features by using data science techniques and determine if a tissue sample is malignant or benign.
-Answering this question will determine the treatment methods recommended by the doctors. This is featureset can also be used in predicting a recurrence of malignant tumors in patients.
+Answering this question will determine the treatment methods recommended by the doctors. This featureset can also be used to predict a recurrence of malignant tumors in patients.
 
 #### Data Sources
 The data set that is used in this project is available at 
